@@ -15,7 +15,7 @@ A SQL + Oracle APEX project to track meals, workouts, and progress.
 - Oracle APEX (forms, reports, charts)
 
 ## Demo Screenshots
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dash_board.png)
 ![Meal Entry](screenshots/meal_entry.png)
 
 ## How to Run
